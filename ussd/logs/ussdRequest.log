@@ -1,0 +1,12 @@
+stdClass Object
+(
+    [Type] => Timeout
+    [Mobile] => 233553260314
+    [SessionId] => 568598f797d049ef9deff695870dcf8a
+    [ServiceCode] => 711*51
+    [Message] => 00040113276-UNKNOWN_ERROR
+    [Operator] => mtn
+    [Sequence] => 4
+    [ClientState] => PAYMENT2
+    [Platform] => USSD
+)

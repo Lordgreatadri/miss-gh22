@@ -1,0 +1,18 @@
+Array
+(
+    [ResponseCode] => 2001
+    [Message] => failed
+    [Data] => Array
+        (
+            [Amount] => 1
+            [Charges] => 0.02
+            [AmountAfterCharges] => 0.98
+            [Description] => Transaction Failed
+            [ClientReference] => 23214
+            [TransactionId] => 0110bc7b642e4c6dad7fa549778628e9
+            [ExternalTransactionId] => 16366996010
+            [AmountCharged] => 1
+            [OrderId] => 0110bc7b642e4c6dad7fa549778628e9
+        )
+
+)

@@ -1,0 +1,18 @@
+Array
+(
+    [ResponseCode] => 2001
+    [Message] => failed
+    [Data] => Array
+        (
+            [Amount] => 100
+            [Charges] => 1.95
+            [AmountAfterCharges] => 98.05
+            [Description] => The MTN Mobile Money user has insufficient funds in wallet to make this payment.
+            [ClientReference] => 23214
+            [TransactionId] => 0a3a4667db4d442f8be5df3d3f9d578d
+            [ExternalTransactionId] => 
+            [AmountCharged] => 100
+            [OrderId] => 0a3a4667db4d442f8be5df3d3f9d578d
+        )
+
+)

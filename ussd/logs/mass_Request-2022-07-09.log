@@ -1,0 +1,54 @@
+{"service":"receiveMomoRequest","contestant_id":"4","channel":"mtn-gh","number":"0240010333","amount":"1.00","nominee_name":"Rukayatu","device":"USSD","request_date":"2022-07-09 02:18:20"}
+{"service":"receiveMomoRequest","contestant_id":"7","channel":"mtn-gh","number":"0248560064","amount":"1000.00","nominee_name":"Mimi","device":"USSD","request_date":"2022-07-09 06:06:04"}
+{"service":"receiveMomoRequest","contestant_id":"8","channel":"mtn-gh","number":"0541517703","amount":"500.00","nominee_name":"Miriam","device":"USSD","request_date":"2022-07-09 06:14:16"}
+{"service":"receiveMomoRequest","contestant_id":"16","channel":"mtn-gh","number":"0549584651","amount":"10.00","nominee_name":"Yirenkyiwaa","device":"USSD","request_date":"2022-07-09 06:27:46"}
+{"service":"receiveMomoRequest","contestant_id":"2","channel":"mtn-gh","number":"0541008146","amount":"5.00","nominee_name":"Francisca","device":"USSD","request_date":"2022-07-09 06:44:01"}
+{"service":"receiveMomoRequest","contestant_id":"17","channel":"vodafone-gh-ussd","number":"0505961288","amount":"5.00","nominee_name":"Cassie","device":"USSD","request_date":"2022-07-09 06:52:10"}
+{"service":"receiveMomoRequest","contestant_id":"1","channel":"mtn-gh","number":"0599239914","amount":"1.00","nominee_name":"Baroness","device":"USSD","request_date":"2022-07-09 06:58:36"}
+{"service":"receiveMomoRequest","contestant_id":"1","channel":"mtn-gh","number":"0599239914","amount":"1.00","nominee_name":"Baroness","device":"USSD","request_date":"2022-07-09 07:07:57"}
+{"service":"receiveMomoRequest","contestant_id":"6","channel":"mtn-gh","number":"0543645688","amount":"1.00","nominee_name":"Rebecca","device":"USSD","request_date":"2022-07-09 09:33:44"}
+{"service":"receiveMomoRequest","contestant_id":"8","channel":"mtn-gh","number":"0557521174","amount":"1.00","nominee_name":"Miriam","device":"USSD","request_date":"2022-07-09 09:41:31"}
+{"service":"receiveMomoRequest","contestant_id":"1","channel":"mtn-gh","number":"0543645688","amount":"1.00","nominee_name":"Baroness","device":"USSD","request_date":"2022-07-09 12:25:37"}
+{"service":"receiveMomoRequest","contestant_id":"7","channel":"vodafone-gh-ussd","number":"0508393178","amount":"5.00","nominee_name":"Mimi","device":"USSD","request_date":"2022-07-09 13:04:43"}
+{"service":"receiveMomoRequest","contestant_id":"16","channel":"tigo-gh","number":"0573100575","amount":"10.00","nominee_name":"Yirenkyiwaa","device":"USSD","request_date":"2022-07-09 13:09:07"}
+{"service":"receiveMomoRequest","contestant_id":"16","channel":"mtn-gh","number":"0242274388","amount":null,"nominee_name":"Yirenkyiwaa","device":"USSD","request_date":"2022-07-09 16:53:09"}
+{"service":"receiveMomoRequest","contestant_id":"16","channel":"mtn-gh","number":"0540306854","amount":"10.00","nominee_name":"Yirenkyiwaa","device":"USSD","request_date":"2022-07-09 16:53:18"}
+{"service":"receiveMomoRequest","contestant_id":"16","channel":"mtn-gh","number":"0540306854","amount":"10.00","nominee_name":"Yirenkyiwaa","device":"USSD","request_date":"2022-07-09 16:54:00"}
+{"service":"receiveMomoRequest","contestant_id":"16","channel":"mtn-gh","number":"0249056484","amount":"100.00","nominee_name":"Yirenkyiwaa","device":"USSD","request_date":"2022-07-09 17:31:39"}
+{"service":"receiveMomoRequest","contestant_id":"3","channel":"mtn-gh","number":"0244432363","amount":"100.00","nominee_name":"Irene Vanessa","device":"USSD","request_date":"2022-07-09 17:34:22"}
+{"service":"receiveMomoRequest","contestant_id":"3","channel":"mtn-gh","number":"0244621869","amount":"10.00","nominee_name":"Irene Vanessa","device":"USSD","request_date":"2022-07-09 17:49:50"}
+{"service":"receiveMomoRequest","contestant_id":"8","channel":"mtn-gh","number":"0248359115","amount":"1.00","nominee_name":"Miriam","device":"USSD","request_date":"2022-07-09 17:58:59"}
+{"service":"receiveMomoRequest","contestant_id":"8","channel":"mtn-gh","number":"0246172568","amount":"1.00","nominee_name":"Miriam","device":"USSD","request_date":"2022-07-09 18:01:28"}
+{"service":"receiveMomoRequest","contestant_id":"16","channel":"tigo-gh","number":"0272061639","amount":"10.00","nominee_name":"Yirenkyiwaa","device":"USSD","request_date":"2022-07-09 18:08:51"}
+{"service":"receiveMomoRequest","contestant_id":"2","channel":"mtn-gh","number":"0594185510","amount":"5.00","nominee_name":"Francisca","device":"USSD","request_date":"2022-07-09 18:22:43"}
+{"service":"receiveMomoRequest","contestant_id":"16","channel":"mtn-gh","number":"0244583494","amount":"1.00","nominee_name":"Yirenkyiwaa","device":"USSD","request_date":"2022-07-09 18:23:31"}
+{"service":"receiveMomoRequest","contestant_id":"16","channel":"mtn-gh","number":"0551392290","amount":"5.00","nominee_name":"Yirenkyiwaa","device":"USSD","request_date":"2022-07-09 18:25:20"}
+{"service":"receiveMomoRequest","contestant_id":"10","channel":"mtn-gh","number":"0594056613","amount":"1.00","nominee_name":"Diana","device":"USSD","request_date":"2022-07-09 18:36:36"}
+{"service":"receiveMomoRequest","contestant_id":"6","channel":"mtn-gh","number":"0553607344","amount":"1.00","nominee_name":"Rebecca","device":"USSD","request_date":"2022-07-09 18:38:26"}
+{"service":"receiveMomoRequest","contestant_id":"7","channel":"mtn-gh","number":"0557697203","amount":"1000.00","nominee_name":"Mimi","device":"USSD","request_date":"2022-07-09 18:45:07"}
+{"service":"receiveMomoRequest","contestant_id":"16","channel":"mtn-gh","number":"0247799714","amount":"1.00","nominee_name":"Yirenkyiwaa","device":"USSD","request_date":"2022-07-09 18:49:42"}
+{"service":"receiveMomoRequest","contestant_id":"3","channel":"mtn-gh","number":"0244235620","amount":"100.00","nominee_name":"Irene Vanessa","device":"USSD","request_date":"2022-07-09 18:58:13"}
+{"service":"receiveMomoRequest","contestant_id":"3","channel":"mtn-gh","number":"0244235620","amount":"100.00","nominee_name":"Irene Vanessa","device":"USSD","request_date":"2022-07-09 18:58:50"}
+{"service":"receiveMomoRequest","contestant_id":"16","channel":"mtn-gh","number":"0244632017","amount":"100.00","nominee_name":"Yirenkyiwaa","device":"USSD","request_date":"2022-07-09 19:06:10"}
+{"service":"receiveMomoRequest","contestant_id":"8","channel":"mtn-gh","number":"0246140044","amount":"10.00","nominee_name":"Miriam","device":"USSD","request_date":"2022-07-09 19:08:20"}
+{"service":"receiveMomoRequest","contestant_id":"8","channel":"mtn-gh","number":"0246140044","amount":"10.00","nominee_name":"Miriam","device":"USSD","request_date":"2022-07-09 19:09:15"}
+{"service":"receiveMomoRequest","contestant_id":"1","channel":"mtn-gh","number":"0557414855","amount":"1.00","nominee_name":"Baroness","device":"USSD","request_date":"2022-07-09 19:11:57"}
+{"service":"receiveMomoRequest","contestant_id":"12","channel":"mtn-gh","number":"0244054545","amount":"5.00","nominee_name":"Dzifa","device":"USSD","request_date":"2022-07-09 19:23:56"}
+{"service":"receiveMomoRequest","contestant_id":"17","channel":"mtn-gh","number":"0249997120","amount":"1.00","nominee_name":"Cassie","device":"USSD","request_date":"2022-07-09 19:25:02"}
+{"service":"receiveMomoRequest","contestant_id":"15","channel":"mtn-gh","number":"0240230379","amount":"50.00","nominee_name":"Esi","device":"USSD","request_date":"2022-07-09 19:33:16"}
+{"service":"receiveMomoRequest","contestant_id":"12","channel":"mtn-gh","number":"0244703861","amount":"100.00","nominee_name":"Dzifa","device":"USSD","request_date":"2022-07-09 19:38:29"}
+{"service":"receiveMomoRequest","contestant_id":"13","channel":"mtn-gh","number":"0594059651","amount":"1.00","nominee_name":"Angela","device":"USSD","request_date":"2022-07-09 20:13:17"}
+{"service":"receiveMomoRequest","contestant_id":"12","channel":"mtn-gh","number":"0553411612","amount":"1000.00","nominee_name":"Dzifa","device":"USSD","request_date":"2022-07-09 20:15:56"}
+{"service":"receiveMomoRequest","contestant_id":"8","channel":"tigo-gh","number":"0277280418","amount":"1.00","nominee_name":"Miriam","device":"USSD","request_date":"2022-07-09 20:22:47"}
+{"service":"receiveMomoRequest","contestant_id":"3","channel":"mtn-gh","number":"0244707797","amount":"50.00","nominee_name":"Irene Vanessa","device":"USSD","request_date":"2022-07-09 20:23:35"}
+{"service":"receiveMomoRequest","contestant_id":"8","channel":"tigo-gh","number":"0277280418","amount":"1.00","nominee_name":"Miriam","device":"USSD","request_date":"2022-07-09 20:25:50"}
+{"service":"receiveMomoRequest","contestant_id":"12","channel":"mtn-gh","number":"0244853300","amount":"100.00","nominee_name":"Dzifa","device":"USSD","request_date":"2022-07-09 20:26:28"}
+{"service":"receiveMomoRequest","contestant_id":"12","channel":"mtn-gh","number":"0244853300","amount":"100.00","nominee_name":"Dzifa","device":"USSD","request_date":"2022-07-09 20:27:22"}
+{"service":"receiveMomoRequest","contestant_id":"12","channel":"mtn-gh","number":"0244853300","amount":null,"nominee_name":"Dzifa","device":"USSD","request_date":"2022-07-09 20:28:09"}
+{"service":"receiveMomoRequest","contestant_id":"8","channel":"tigo-gh","number":"0277280418","amount":"1.00","nominee_name":"Miriam","device":"USSD","request_date":"2022-07-09 20:28:11"}
+{"service":"receiveMomoRequest","contestant_id":"1","channel":"mtn-gh","number":"0243219473","amount":"100.00","nominee_name":"Baroness","device":"USSD","request_date":"2022-07-09 20:31:33"}
+{"service":"receiveMomoRequest","contestant_id":"12","channel":"vodafone-gh-ussd","number":"0206006464","amount":"100.00","nominee_name":"Dzifa","device":"USSD","request_date":"2022-07-09 20:32:51"}
+{"service":"receiveMomoRequest","contestant_id":"8","channel":"mtn-gh","number":"0245218164","amount":"10.00","nominee_name":"Miriam","device":"USSD","request_date":"2022-07-09 20:41:01"}
+{"service":"receiveMomoRequest","contestant_id":"12","channel":"mtn-gh","number":"0244378882","amount":"10.00","nominee_name":"Dzifa","device":"USSD","request_date":"2022-07-09 20:44:09"}
+{"service":"receiveMomoRequest","contestant_id":"12","channel":"mtn-gh","number":"0244378882","amount":"10.00","nominee_name":"Dzifa","device":"USSD","request_date":"2022-07-09 20:45:14"}
+{"service":"receiveMomoRequest","contestant_id":"12","channel":"mtn-gh","number":"0244378882","amount":"50.00","nominee_name":"Dzifa","device":"USSD","request_date":"2022-07-09 20:46:10"}

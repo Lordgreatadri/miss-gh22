@@ -1,0 +1,10 @@
+Array
+(
+    [status] => 200
+    [result] => Array
+        (
+            [action] => vote cast
+            [message] => Vote cast in process
+        )
+
+)

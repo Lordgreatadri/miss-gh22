@@ -1,0 +1,1 @@
+"{\"Message\":\"Transaction pending. Expect callback request for final state.\",\"ResponseCode\":\"0001\",\"Data\":{\"TransactionId\":\"2eef9077055b4e94a153e735f91d6f91\",\"Description\":\"LoveRight Reality Show\",\"ClientReference\":\"23214\",\"Amount\":50,\"Charges\":0.98,\"AmountAfterCharges\":49.02,\"AmountCharged\":50,\"DeliveryFee\":0}}"

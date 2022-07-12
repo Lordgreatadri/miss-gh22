@@ -1,0 +1,8 @@
+{"service":"receiveMomoRequest","contestant_id":"1","channel":"mtn-gh","number":"0543645688","amount":"1.00","nominee_name":"Baroness","device":"USSD","request_date":"2022-07-12 06:48:59"}
+{"service":"receiveMomoRequest","contestant_id":"17","channel":"mtn-gh","number":"0243292404","amount":"5.00","nominee_name":"Cassie","device":"USSD","request_date":"2022-07-12 06:50:15"}
+{"service":"receiveMomoRequest","contestant_id":"3","channel":"mtn-gh","number":"0541800969","amount":"1.00","nominee_name":"Irene Vanessa","device":"USSD","request_date":"2022-07-12 09:24:50"}
+{"service":"receiveMomoRequest","contestant_id":"12","channel":"tigo-gh","number":"0262146968","amount":"100.00","nominee_name":"Dzifa","device":"USSD","request_date":"2022-07-12 09:25:47"}
+{"service":"receiveMomoRequest","contestant_id":"12","channel":"tigo-gh","number":"0262146968","amount":"100.00","nominee_name":"Dzifa","device":"USSD","request_date":"2022-07-12 09:27:37"}
+{"service":"receiveMomoRequest","contestant_id":"7","channel":"mtn-gh","number":"0549602687","amount":"10.00","nominee_name":"Mimi","device":"USSD","request_date":"2022-07-12 09:33:45"}
+{"service":"receiveMomoRequest","contestant_id":"6","channel":"mtn-gh","number":"0543645688","amount":"1.00","nominee_name":"Rebecca","device":"USSD","request_date":"2022-07-12 09:39:53"}
+{"service":"receiveMomoRequest","contestant_id":"9","channel":"mtn-gh","number":"0244296659","amount":"1.00","nominee_name":"Esther","device":"USSD","request_date":"2022-07-12 10:21:03"}

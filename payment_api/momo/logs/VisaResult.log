@@ -1,0 +1,11 @@
+Array
+(
+    [status] => 200
+    [result] => Array
+        (
+            [message] => success
+            [payment_link] => https://paypage.stanbicbank.com.gh/?code=c3dcf7f91722c239&slim=true
+            [order_reference] => 8ed135a5-1971-41e0-9b7d-79835f61c01d
+        )
+
+)
