@@ -1,10 +1,10 @@
 <?php 
     // require_once 'config.php';
     session_start();
-    $db_host = '192.168.193.254';
+    $db_host = '';
     $db_name = 'miss_ghana';//
     $db_username = 'adri';//Mccg8(3P^tJVnBDsF
-    $pass_word = 'adRi@1234&5$HaW9(1&Mcc';//$databasePassword;//'Mccg8(3P^tJVnBDsF';//#4kLxMzGurQ7Z~
+    $pass_word = '';//$databasePassword;//'';//#4kLxMzGurQ7Z~
     $charset = 'utf8mb4';
     $server_path = "mysql:host=".$db_host.";dbname=".$db_name.";charset=".$charset;
     $connect = new PDO($server_path, $db_username, $pass_word);//"mysql:host=localhost;dbname=behind_voice;charset=utf8","root",""
