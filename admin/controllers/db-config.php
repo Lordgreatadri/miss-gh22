@@ -1,8 +1,8 @@
 <?php
-    $serverName = "192.168.193.254";
+    $serverName = "";
     $databaseName = "miss_ghana"; #"";
-    $databaseUser = "adri";
-    $databasePassword = 'adRi@1234&5$HaW9(1&Mcc'; #"";
+    $databaseUser = "";
+    $databasePassword = ''; #"";
 
     $database = mysqli_connect($serverName, $databaseUser, $databasePassword, $databaseName);
 
