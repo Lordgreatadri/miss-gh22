@@ -2,10 +2,10 @@
 	
 	class DbClass
 	{
-		private $db_host = '192.168.193.254';
+		private $db_host = '';
 		private $db_name = 'miss_ghana';
-		private $db_username = 'adri';
-		private $pass_word = 'adRi@1234&5$HaW9(1&Mcc';//FAg8(3P^tJVnBDsF%F Mccg8(3P^tJVnBDsF  #4kLxMzGurQ7Z~
+		private $db_username = '';
+		private $pass_word = '';//   #4kLxMzGurQ7Z~
 		private $charset   = 'utf8mb4';
 
 		//access to server/database connection 2018-04-09 16:02:44
