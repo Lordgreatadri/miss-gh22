@@ -4,10 +4,10 @@
 **/
 
     class DbCon{
-    	private $server = '192.168.193.254';
+    	private $server = '';
         private $dbname = 'miss_ghana';
-        private $user = 'adri';
-        private $pass = 'adRi@1234&5$HaW9(1&Mcc';
+        private $user = '';
+        private $pass = '';
 
     	public function connection(){
     	   try {    	   	
